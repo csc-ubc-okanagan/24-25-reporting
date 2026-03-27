@@ -14,6 +14,13 @@
     "text": "January 1, 2023 - March 31, 2025"
   },
   {
+    "objectID": "workshops.html#workshop-listings",
+    "href": "workshops.html#workshop-listings",
+    "title": "Workshops",
+    "section": "Workshop Listings",
+    "text": "Workshop Listings\nWe offer a variety of workshops to help students improve the computational, data, and statistical literacies. Worshops that we deliver include:\nEntry Level\n\nR Fundamentals for Data Analysis\nPython Basics for Data Analysis\nIntroduction to the Bash shell\nGit and GitHub\nStatistical Fundamentals: A Visual Approach\n\nIntermediate to Advanced\n\nFitting Models to Data Not Data to Models\nThe Advance R Series: Clustering & Classification\n\nMore details on specific workshops can be found at https://csc-ubc-okanagan.github.io/workshops/"
+  },
+  {
     "objectID": "workshops.html#department-numbers",
     "href": "workshops.html#department-numbers",
     "title": "Workshops",
@@ -75,6 +82,13 @@
     "title": "Consultations",
     "section": "Role Numbers",
     "text": "Role Numbers\n\n\n\n\n\nRole\nCount\n\n\n\n\nMasters\n222\n\n\nUndergraduate\n89\n\n\nPhD\n84\n\n\nNA\n33\n\n\nStaff\n18\n\n\nFaculty\n17"
+  },
+  {
+    "objectID": "consultations.html#reaons-for-requesting-a-consultation",
+    "href": "consultations.html#reaons-for-requesting-a-consultation",
+    "title": "Consultations",
+    "section": "Reaons for Requesting a Consultation",
+    "text": "Reaons for Requesting a Consultation\n\n\n\n\n\nPurpose\nCount\n\n\n\n\nBuilding or applying a statistical model\n64\n\n\nWriting code\n50\n\n\nSelecting an appropriate statistical model\n48\n\n\nInterpreting my findings\n41\n\n\nData visualization\n36\n\n\nTroubleshooting my code\n36\n\n\nSelecting and appropriate statistical model\n13\n\n\nOther\n7"
   },
   {
     "objectID": "consultations.html#department-and-faculty-porportions",
